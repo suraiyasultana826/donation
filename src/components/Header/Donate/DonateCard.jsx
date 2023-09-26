@@ -7,7 +7,7 @@ const DonateCard = ({element}) => {
     return (
         <div>
          <Link to={`/donate/${id}`}>
-         <div classNameName="relative flex w-96 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+         <div  classNameName="relative flex w-96 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md ">
   <div classNameName="relative mx-4 -mt-6 h-56 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40">
     <img
       src={image}

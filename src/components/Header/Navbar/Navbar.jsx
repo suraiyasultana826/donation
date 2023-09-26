@@ -7,7 +7,7 @@ const Navbar = () => {
             <nav className='flex justify-between items-center py-6 shadow-md px-5'>
                 {/* <img src="../../../assets/Logo.png" alt="" /> */}
                 <Logo></Logo>
-                <ul className='flex gap-5'>
+                <ul className='md:flex md:gap-5 lg:flex lg:gap-5'>
                     <li>
                         <NavLink
                             to="/"
