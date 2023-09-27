@@ -2,9 +2,9 @@
   {
     "id": "1",
     "image": "https://i.ibb.co/9hMW3NK/Health.png",
-    "text_color": "#333333",
+    "text_color": "#0052FF",
     "background_color": "#0052FF26",
-    "title_color": "#FF6600",
+    "title_color": "#0052FF",
     "title_name": "Health",
     "description": "Clean water for children"
   },
@@ -12,8 +12,8 @@
     "id": "2",
     "image": "https://i.ibb.co/stVv7JJ/Education.png",
     "text_color": "#555555",
-    "background_color": "#FF9999",
-    "title_color": "#FF0000",
+    "background_color": "#FF444A26",
+    "title_color": "#FF444A",
     "title_name": "Education",
     "description": "Good education"
   },
@@ -22,7 +22,7 @@
     "image": "https://i.ibb.co/FVCrt0C/Clothing.png",
     "text_color": "#222222",
     "background_color": "#79C23F26",
-    "title_color": "#FF3366",
+    "title_color": "#79C23F",
     "title_name": "Clothing",
     "description": "Used Clothing Drive"
   },
@@ -31,7 +31,7 @@
     "image": "https://i.ibb.co/8gJ74Rh/Food.png",
     "text_color": "#444444",
     "background_color": "#F8714726",
-    "title_color": "#990099",
+    "title_color": "#F87147",
     "title_name": "Food",
     "description": "Better Food for Everyone"
   },
@@ -40,7 +40,7 @@
     "image": "https://i.ibb.co/8gJ74Rh/Food.png",
     "text_color": "#666666",
     "background_color": "#F8714726",
-    "title_color": "#336699",
+    "title_color": "#F87147",
     "title_name": "Food",
     "description": "Better Food for Everyone"
   },
@@ -49,7 +49,7 @@
     "image": "https://i.ibb.co/FVCrt0C/Clothing.png",
     "text_color": "#111111",
     "background_color": "#79C23F26",
-    "title_color": "#FF9900",
+    "title_color": "#79C23F",
     "title_name": "Clothing",
     "description": "Used Clothing Drive"
   },
@@ -57,8 +57,8 @@
     "id": "7",
     "image": "https://i.ibb.co/stVv7JJ/Education.png",
     "text_color": "#777777",
-    "background_color": "#FF9999",
-    "title_color": "#FF0000",
+    "background_color": "#FF444A26",
+    "title_color": "#FF444A",
     "title_name": "Education",
     "description": "Good education"
   },
@@ -67,7 +67,7 @@
     "image": "https://i.ibb.co/9hMW3NK/Health.png",
     "text_color": "#333333",
     "background_color": "#0052FF26",
-    "title_color": "#0066CC",
+    "title_color": "#0052FF",
     "title_name": "Health",
     "description": "Clean water for children"
   },
@@ -76,7 +76,7 @@
     "image": "https://i.ibb.co/9hMW3NK/Health.png",
     "text_color": "#555555",
     "background_color": "#0052FF26",
-    "title_color": "#FF3399",
+    "title_color": "#0052FF",
     "title_name": "Health",
     "description": "Clean water for children"
   },
@@ -84,8 +84,8 @@
     "id": "10",
     "image": "https://i.ibb.co/stVv7JJ/Education.png",
     "text_color": "#222222",
-    "background_color": "#FF9999",
-    "title_color": "#FF0000",
+    "background_color": "#FF444A26",
+    "title_color": "#FF444A",
     "title_name": "Education",
     "description": "Good education"
   },
@@ -94,7 +94,7 @@
     "image": "https://i.ibb.co/FVCrt0C/Clothing.png",
     "text_color": "#444444",
     "background_color": "#79C23F26",
-    "title_color": "#9933CC",
+    "title_color": "#79C23F",
     "title_name": "Clothing",
     "description": "Used Clothing Drive"
   },
@@ -103,7 +103,7 @@
     "image": "https://i.ibb.co/8gJ74Rh/Food.png",
     "text_color": "#666666",
     "background_color": "#F8714726",
-    "title_color": "#3399CC",
+    "title_color": "#F87147",
     "title_name": "Food",
     "description": "Better Food for Everyone"
   }

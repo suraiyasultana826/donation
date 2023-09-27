@@ -43,18 +43,18 @@ const DonateDetail = () => {
         
     }
     return (
-        <div className='ml-24 flex justify-center items-center h-screen'>
+        <div className='ml-24 flex justify-center items-center h-screen w-3/4'>
              <div className="relative  flex flex-col mt-20 mx-auto rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6   overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40">
-    <img
+    <img className='w-full h-[70vh]'
       src={image}
       alt="img-blur-shadow"
       layout=""
     />
   </div>
-  <div className="">
-    <button onClick={handleAddToDonation}
-      className="select-none rounded-lg bg-pink-500 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md shadow-pink-500/20 transition-all hover:shadow-lg hover:shadow-pink-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+  <div style={{backgroundColor: 'white'}} className="">
+    <button style={{backgroundColor: title_color}} onClick={handleAddToDonation}
+      className="select-none rounded-lg  py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase  text-white shadow-md shadow-pink-500/20 transition-all hover:shadow-lg hover:shadow-pink-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
       type="button"
       data-ripple-light="true"
     >

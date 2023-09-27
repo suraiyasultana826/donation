@@ -29,12 +29,15 @@ const Favorites = () => {
                             isShow ? donates.map((element) => (<DonateCard key={element.id} element={element}></DonateCard>)) :
                             donates.slice(0,2).map((element) => (<DonateCard key={element} element={element}></DonateCard>))
                         }
+                        
                     </div>
+                    
                     {donates.length > 4 && <button onClick={() => setIsShow(!isShow)} className='px-5 bg-green-600 mb-6 h-10 font-semibold block mx-auto rounded-lg mt-5'>{isShow? 'See Less' : 'See More'}</button>}
                 </div>
 
             }
         </div>
+        
     );
 };
 

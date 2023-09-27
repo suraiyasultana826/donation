@@ -16,12 +16,16 @@ const DonateCard = ({element}) => {
     />
   </div>
   <div style={{backgroundColor: background_color}} className="p-6">
-    <h5 style={{Color: title_color}} className="mb-2 block font-sans text-xm font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
+    <div style={{color: title_color}}>
+    <h5  className="mb-2 block font-sans text-xm font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
       {title_name}
     </h5>
-    <p className="block font-sans text-base font-light leading-relaxed text-inherit antialiased">
+    </div>
+   <div style={{color: title_color}}>
+   <p className="block font-sans text-base font-light leading-relaxed text-inherit antialiased">
       {description}
     </p>
+   </div>
   </div>
  
 </div></Link>
