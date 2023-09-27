@@ -1,7 +1,7 @@
 
 const Banner = () => {
     return (
-        <div className='w-full h-screen bg-no-repeat bg-cover ' style={{backgroundImage: 'url(../../../photos/clothing.png)'}}>
+        <div className='w-full h-screen bg-no-repeat bg-cover ' style={{backgroundImage: 'url(../../../../public/photos/clothing.png)'}}>
           <div className="flex justify-center items-center content-center pt-56">
            <div>
            <h1 className="font-extrabold text-4xl">I Grow By Helping People In Need</h1>
